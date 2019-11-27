@@ -1,0 +1,36 @@
+﻿html{
+    font-size: 62.5%;/**forzar 1=62.6% 16px=10px**/
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Serif', serif;
+    /*background: -ms-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 56%, rgba(237,237,237,1) 100%);*/
+    background-color:rgb(231, 231, 231);
+}
+h1{
+    font-size: 4rem;
+}
+h2{
+    font-size: 3rem;
+}
+h4{
+    font-size:2rem;
+}
+a{
+    text-decoration: none;
+}
+p{
+    font-size: 1rem;
+}
+/*Css index*/
+.contenedor-objetos{
+    margin-top: 150px;
+  
+}
+.contenedor-iconos{
+    border-bottom: 1px gray solid;
+}
+.registrate{
+    margin-right: 2rem;
+}
